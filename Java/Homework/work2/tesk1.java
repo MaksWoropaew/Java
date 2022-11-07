@@ -1,3 +1,5 @@
+// Реализуйте алгоритм сортировки пузырьком числового массива, 
+// результат после каждой итерации запишите в лог-файл.
 package Java.Homework.work2;
 import java.io.FileWriter;
 import java.io.IOException;
